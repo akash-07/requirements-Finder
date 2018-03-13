@@ -1,10 +1,9 @@
 **Motivation:** There is a need to identify requirements of a software project. Earlier attempts in this area have been to use source code to generate software requirements. Considering the huge amount of information contained in other artifacts associated with software like issues, commits, authors, pull requests, etc. we plan to use these artifacts over source code to identify or generate software requirements.
 
 **Recent Work:**
+We found a Research paper that appeared in *ICSEA 2012 : The Seventh International Conference on Software Engineering Advances* titled 'Tracing requirements and source code changes during software development'.
 
-We found a Research paper that appeared in *ICSEA 2012 : The Seventh International Conference on Software Engineering Advances* titled **Tracing requirements and source code changes during software development.**
-
-[Link to paper]()
+[Link to paper](https://github.com/akash-07/Requirements-Finder/blob/master/background-work/Research-Papers/requirements-traceability.pdf)
 
 The paper defines a model for Tracing links between a given set of requirements and artifacts associated with a software project. This model named Traceability integration model (TIM) is built over the standard model in software Engineering called Management-based Unified Software Engineering (MUSE).
 
